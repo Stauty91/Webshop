@@ -1,5 +1,8 @@
 # Webshop
 
+![image](https://github.com/user-attachments/assets/7238a6a2-184b-4927-80ab-a24246880b37)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
 ## Development server
