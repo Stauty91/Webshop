@@ -2,6 +2,17 @@
 
 ![image](https://github.com/user-attachments/assets/1c0259c7-fec4-4428-bef6-0aa0ac5be484)
 
+#Frontend
+HTML
+Angular (with the material library)
+TypeScript.js
+Tailwind CSS
+
+#Backend
+node.js
+express.js
+stripe payment API
+fakestore API
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
